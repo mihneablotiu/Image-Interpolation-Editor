@@ -1,4 +1,4 @@
-Bloțiu Mihnea-Andrei - 313CA - Tema MN - 19.05.2021
+313CA - Bloțiu Mihnea-Andrei - 2021
 Interpolare aplicată pe imagini
 
 
@@ -65,21 +65,3 @@ Pentru partea de resize, algoritmul este identic cu singura diferentă că de ac
 derivatele parțiale pe care le vom folosi pentru a determina coeficienții de interpolare bicubică
 pe care îi vom folosi la rândul lor pentru a calcula valoarea pixelului final conform formulei
 din teorie. Analog pentru RGB la fiecare culoare în parte.
-
-
-FEEDBACK: o temă foarte frumoasă, foarte bine explicată. Am apreciat foarte mult teoria oferită
-și îndrumările din comentarii, au scutit foarte mult timp și au realizat o înțelegere mult mai
-ușoară a conceptului. Totuși mi se pare destul de neclar ce reprezintă în sine coordonatele x și
-y. Spun asta deoarece pe parcursul rezolvării temei am fost nevoit de mai multe ori să le schimb
-efectiv rolul și rezultatul a fost dintr-o dată corect. Oricum, una peste alta, a fost o temă
-plăcută :) Cheers :)
-
-
-
-
-
-
-
-
-
-
